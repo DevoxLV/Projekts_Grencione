@@ -13,6 +13,8 @@ print(y)
 4 Dzērve Artūrs
 
 5 Greilihs Dīvs Rihards
+y=5
+x=y+3**5/30
 
 6 Lange Rūdolfs Toms
 
